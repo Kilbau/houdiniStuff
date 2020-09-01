@@ -1,0 +1,35 @@
+{
+  "odds": {
+    "common": 0.5,
+    "uncommon": 0.3,
+    "rare": 0.15,
+    "legendary": 0.05
+  },
+  "contents": {
+    "common": [
+      "convert",
+      "convertvdb",
+      "vdbfrompolygons",
+      "mountain::2.0",
+      "matchsize",
+      "switch",
+      "polybevel::3.0"
+    ],
+    "uncommon": [
+      "copytopoints::2.0",
+      "scatter::2.0",
+      "groupcreate",
+      "copyxform",
+      "blast"
+    ],
+    "rare": [
+      "null",
+      "merge",
+      "xform"
+    ],
+    "legendary": [
+      "attribwrangle",
+      "attribvop"
+    ]
+  }
+}
