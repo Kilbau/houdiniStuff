@@ -31,5 +31,27 @@
       "attribwrangle",
       "attribvop"
     ]
+  },
+  "colors": {
+    "common": [
+      1,
+      1,
+      1
+    ],
+    "uncommon": [
+      0,
+      0.75,
+      1.5
+    ],
+    "rare": [
+      0.85,
+      0,
+      1.7
+    ],
+    "legendary": [
+      1.9,
+      1.6,
+      0
+    ]
   }
 }
