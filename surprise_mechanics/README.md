@@ -13,11 +13,11 @@ Saves the Postion of Color of points for the opening animation.
 Houdini HDA for the lootbox
 connect any node to the first input and press the Button in the Parameters.
 
-Has a hidden "lootboxContents" parameter which has to point to the lootbox.json
-By default this points to "$HIP/lootbox.json"
+  Has a hidden "lootboxContents" parameter which has to point to the lootbox.json
+  By default this points to "$HIP/lootbox.json"
 
-The python node inside this HDA has a "file" parameter which has to point to the node animation.
-By default this points to "$HIP/fireworks.json"
+  The python node inside this HDA has a "file" parameter which has to point to the node animation.
+  By default this points to "$HIP/fireworks.json"
 
 * hou_readJson.py
 is a copy of the code in the lootbox.otl
