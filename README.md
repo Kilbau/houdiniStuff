@@ -1,3 +1,5 @@
+### Note ###
+Unless written otherwise, all HDAs / scenes are made with Houdini Indie.
 
 ### Surprise Mechanics ###
 
